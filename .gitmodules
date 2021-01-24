@@ -1,0 +1,8 @@
+[submodule "Console/Common"]
+	path = Console/Common
+	url = https://github.com/Diogo-Maia/Projeto3LP2.git
+	branch = common
+[submodule "UnityView/Assets/Scripts/Common"]
+	path = UnityView/Assets/Scripts/Common
+	url = https://github.com/Diogo-Maia/Projeto3LP2.git
+	branch = common
